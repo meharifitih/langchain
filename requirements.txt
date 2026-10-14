@@ -3,3 +3,7 @@ langchain-core
 streamlit
 python-dotenv
 langchain-ollama
+langserve
+fastapi
+uvicorn
+sse_starlette
