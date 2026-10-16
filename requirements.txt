@@ -16,3 +16,6 @@ chromadb
 faiss-cpu
 langchain
 langchain-classic
+wikipedia
+arxiv<3
+langchainhub
