@@ -17,5 +17,9 @@ faiss-cpu
 langchain
 langchain-classic
 wikipedia
-arxiv<3
+arxiv
 langchainhub
+langchain-groq
+groq
+cassio
+beautifulsoup4
